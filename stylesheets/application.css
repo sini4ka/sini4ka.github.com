@@ -1,0 +1,17 @@
+/* line 1 */
+body {
+  background-color: lightgreen;
+  font-family: "Courier New";
+  color: darkgreen;
+}
+
+/* line 7 */
+.menu li {
+  display: inline;
+}
+
+/* line 10 */
+.about {
+  width: 65%;
+  text-align: justify;
+}
